@@ -1,0 +1,44 @@
+.inicio{
+--opacidad-negro: 0.5;
+background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/nfl.webp");
+background-position: center;
+background-size: cover;
+height:30rem;  
+}
+.ana{
+    .card{
+        border-radius: 10px;
+    }
+    .card-title{
+        font-size: 1.5rem;
+    }
+}
+.ana{
+    .card{
+        border-radius: 40px;
+    }
+    .card-title{
+        font-size: 2rem;
+    }
+}
+
+.logo{
+    height: 42px;
+    width: 38px;
+}
+
+.d-block{
+    height:520px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px;
+}
+
+.text-team{
+    color: whitesmoke;
+    text-wrap: balance;
+    text-decoration-thickness: white;
+    background-color: rgba(0, 0, 0, 0.7); 
+}
+
+
+
